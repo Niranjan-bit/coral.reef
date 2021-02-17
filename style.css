@@ -1,0 +1,184 @@
+body{
+  background-color: #f2e6ff;
+  font: 100%/1.4 "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
+  color: black;
+}
+header, nav, footer {
+    display: block;
+}
+header{
+  background-color: black;
+  color: white;
+
+}
+.container {
+  background-color: black;
+}
+/* Top right text */
+.top-right {
+  position: absolute;
+  color: white;
+  font-size: 80px;
+  font-family:cursive;
+  top: 8px;
+  right: 16px;
+}
+.header_background {
+    background-color: #594200;
+}
+.main_caption {
+    font-family: 'Rubik', Arial, san-serif;
+    font-size: 0.75rem;
+    font-weight: 400;
+    font-style: italic;
+    color: #fff;
+    background-color: rgba(89,66,0,0.75);
+    padding: 0.25rem;
+    margin: 0;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.header_background {
+    background-image: url('https://wallpaperaccess.com/full/1151049.jpg');
+    background-attachment: fixed;
+    background-size: 1250px 500px;
+    height: 38vw;
+    position: relative;
+    background-repeat: no-repeat;
+}
+div.scrollmenu {  
+  background-color: #2a79ad;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+a:visited{
+  color: black;
+}
+a:hover{
+  color: black;
+}
+footer{
+  font-family: monospace;
+  background-color: white;
+  color: blue;
+}
+.head1{
+  text-align: right;
+  font-family: cursive;
+  font-size: x-large;
+}
+.eco{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  background-color: aliceblue;
+}
+.box{
+  width: auto;
+  height: 100%;
+}
+.desc1{
+  padding: 15px;
+  text-align: center;
+}
+.footimg{
+    display: block;
+    width:unset;
+    max-width: 100%;
+    height: auto;
+    outline: 5px solid black;
+}
+.img4{
+  float:right;
+  outline: 5px solid black;
+}
+.galhead1{
+  text-align: right;
+  font-family: cursive;
+  font-size: x-large;
+}
+.gal1{
+  background-color: #c8dea9;
+}
+.peg2{
+  background-color: #ccdbde;
+}
+div.gallery {
+  border: 5px solid black;
+}
+
+div.gallery:hover {
+  border: 3px solid #777;
+}
+
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width:unset;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+.touhead{
+  text-align: right;
+  font-family: cursive;
+  font-size: x-large;
+}
+.bdy{
+  background-color:honeydew;
+  font-size: 25px;
+  display: flex;
+}
+.ontu{
+  margin-left: 80px;
+  margin-right: 80px;
+  font-size: 15px;
+}
+main{
+  padding-left: 5.5rem;
+}
+#upp{
+  font-family: cursive;
+  font-size: 30px;
+  padding-bottom: 0rem;
+}
+.hgf{
+  padding:0 8rem;
+}
+.pedu{
+  padding:0 5rem;
+  text-size: 15px;
+}
