@@ -82,7 +82,7 @@ footer{
   font-size: x-large;
 }
 .eco{
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family:sans-serif;
   font-size: 20px;
   background-color: aliceblue;
 }
@@ -114,7 +114,7 @@ footer{
   background-color: #c8dea9;
 }
 .peg2{
-  background-color: #ccdbde;
+  background-color:#ace0f9;
 }
 div.gallery {
   border: 5px solid black;
@@ -159,8 +159,9 @@ div.desc {
 }
 .bdy{
   background-color:honeydew;
-  font-size: 25px;
+  font-size: 20px;
   display: flex;
+  font-family: cursive;
 }
 .ontu{
   margin-left: 80px;
@@ -177,6 +178,7 @@ main{
 }
 .hgf{
   padding:0 8rem;
+  font-family: sans-serif;
 }
 .pedu{
   padding:0 5rem;
